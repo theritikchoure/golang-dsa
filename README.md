@@ -1,6 +1,12 @@
 # Go lang DSA
 
+If you are not familiar with Go lang, please go to the below Go tour website - 
+- [Go tour](https://go.dev/tour/welcome/1)
+- [Coursera Course](https://www.coursera.org/specializations/google-golang)
+
 ## Big O
+
+**Section Taken From [spring1843/go-dsa](https://github.com/spring1843/go-dsa/blob/main/complexity.md)**
 
 Big O is a mathematical notation commonly used to describe the impact on time or space as input size `n` increases. We are mostly interested in discussing the worst case of an algorithm, but it is also beneficial to compare algorithms in their average and best case scenarios. Seven Big O notations commonly used in algorithm complexity analysis are discussed in the following sections.
 
